@@ -2,4 +2,4 @@
 
 **Hello, Chetan here, I'm graduate from VVP Engineering College with specialization in Information Technology (IT).**
 
-**I'm great enthusiast and dedicated to work on constantly improving myself and organization. I completed my training and industrial training as frontend developer (ReactJs) and currently working as MERN Stack developer. Also working as a freelancer as React Js Developer.**
+**I am a passionate individual committed to continuous self-improvement and enhancing the overall performance of both myself and the organization. I have successfully completed training and industrial courses as a frontend developer, specializing in ReactJS. Currently, I am employed as a MERN Stack developer and also undertake freelance projects as a ReactJS Developer.**
